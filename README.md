@@ -1,6 +1,3 @@
-# APEX_HOL04
-APEX Hands on Lab - Javascript in APEX
-
 # Oracle APEX 실습 (HOL04)
 
 ##### APEX에서 Javascript 활용하기
